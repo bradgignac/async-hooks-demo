@@ -1,0 +1,15 @@
+{
+  "name": "async-hooks-demo",
+  "version": "1.0.0",
+  "author": "Brad Gignac <bgignac@bradgignac.com>",
+  "description": "Demonstrates using the [Async Hooks API](https://nodejs.org/dist/latest-v8.x/docs/api/async_hooks.html) to instrument asyncronous resources.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradgignac/async-hooks-demo.git"
+  },
+  "license": "UNLICENSED",
+  "main": "server.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
